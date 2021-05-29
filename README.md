@@ -2,7 +2,7 @@
 
 ### PyBer Summary DataFrame
 
-Create a summary DataFrame that showcases the correlation between average fare and total rides and drivers in each city type
+Summary DataFrame that showcases the correlation between average fare, total rides and drivers in each city type
 
 - Total Rides : calculate the total rides in each city type (count of ride_id)
 - Total Drivers: calcualte the total drivers in each city type (sum of driver_count from city data collection)
